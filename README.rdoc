@@ -4,3 +4,7 @@ This is a demo app that uses em-websocket on a chat server.
 
 To run server run the command:
   rails runner lib/WebsocketServer.rb
+
+Document about websockets here:
+
+https://docs.google.com/a/gaiax.com/document/d/1y6jh9BO4jz93uTNJltV9WWKCmdXFJaQpUJF08_jfejw/edit#
